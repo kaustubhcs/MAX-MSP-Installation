@@ -1,0 +1,25 @@
+Installation Notes: 
+
+On 32-bit versions of Windows:
+ - Just run Max5.msi
+ - Reboot
+
+On 64-bit versions of windows:
+ - Run "PACE Drivers x64.exe" (Not necessary if you have it already by ProTools HD 10.3.5 or others)
+ - Run Max5.msi
+ - Reboot
+
+
+Do not forget to overwrite the original files with the cracked ones (Lz0 Folder)
+
+Known issue with this release of MAX :
+
+- You cannot overwrite a project save if it has the same name,
+CAUTION WHILE YOU CLOSE THE PROJECT, SAVE CHANGES DOESNT WORK, IT WONT BE SAVED THAT WAY.
+So just rename it (save as) ! (Or it will throw you a jpatcher_saveto: error -1 shit)
+
+
+(PS: Asio4All works like a charm with MAX, dont forget to download it and 
+Set it as the audio driver in Options, Dsp Status)
+
+Akun. AbodStudios 2013
